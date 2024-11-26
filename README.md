@@ -1,16 +1,9 @@
 
-# Terminal-ators: Seamless Learning and Career Connection Platform
-
-![Smart India Hackathon 2024](https://ibb.co/TRQqc6G)
-
-## Problem Statement
-- **ID:** SIH1588  
-- **Title:** Student Innovation  
-- **Category:** Software  
-- **Theme:** Miscellaneous  
+# CodeRoad: Seamless Learning and Career Connection Platform
+ 
 
 ## Overview
-Terminal-ators is a one-stop solution for structured software education and career guidance. It addresses the lack of clear learning roadmaps for students and provides companies with an efficient way to find skilled talent.
+CodeRoad is a one-stop solution for structured software education and career guidance. It addresses the lack of clear learning roadmaps for students and provides companies with an efficient way to find skilled talent.
 
 ### Key Features
 1. **Interactive Learning Roadmaps:**  
